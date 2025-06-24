@@ -24,10 +24,10 @@ Olá, pessoal. 👋
 
 ##
 
-- Atuando como Analista de Dados em nível Pleno/Sênior com ênfase na elaboração e estruturação de painés complexos em DataViz e Modelagem de Dados de peer-to-peer. Assim como manutenção da engenharia de dados em Databases com alta volumetria de dados. 
+- Elaboração e manutenção da engenharia de dados em Databases com alta volumetria.
   
 - Atualmente cursando Data Science & Analytics - MBA USP/Esalq no formato remoto.
   
 - Busco aprofundar e enriquecer tanto meu portfólio de projetos ao longo de minha carreira profissional como popular de forma estratégica e eficaz meu networking.
   
-- Me encontro disponível para realizar projetos em DataViz utilizando Power BI, Databricks, SQL Server e Oracle PL/SQL que são linguagens e ferramentas as quais possuo amplo conhecimento e profundamento tanto acadêmico quanto profissional.
+- Me encontro disponível para realizar projetos em DataViz utilizando Power BI, Big Query, ADF, Databricks, Python, SQL Server e Oracle PL/SQL que são linguagens e ferramentas as quais possuo amplo conhecimento e aprofundamento tanto acadêmico quanto profissional.
